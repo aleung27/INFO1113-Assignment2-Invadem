@@ -6,6 +6,7 @@ Codebase for Assignment2 of INFO1113 (Object Oriented Programming) - Invadem. Th
 ## Usage
 
 `gradle assemble`
+
 `gradle run`
 
 ## Controls and Gameplay
